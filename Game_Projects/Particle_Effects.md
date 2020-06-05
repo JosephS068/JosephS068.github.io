@@ -64,17 +64,18 @@ Features:
 ### Benchmarks:
 Hardware: Macbook Pro 2017, Intel Iris Plus Graphics (10)
 Water: 8000 particles, 33 FPS
-Fireworks: 6000, 40 FPS
+Fireworks: 6000 particles, 40 FPS
 
 ### Images:
-Ball:
+#### Ball:
 
 Ball in the air
-
+(https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Air.png)
 
 Ball stopped
+(https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Stop.png)
 
-Water:
+#### Water:
 
 General picture of the particle setting
 
