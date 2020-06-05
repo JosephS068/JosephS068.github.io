@@ -11,17 +11,29 @@ A start and goal node is put at their respective locations. Start is blue and go
 
 
 # Code:
-All of the code for this homework can be found here: https://github.umn.edu/spiel068/csci5611-HW3
+All of the code can be found here: [https://github.com/JosephS068/Processing-Path-Planning](https://github.com/JosephS068/Processing-Path-Planning)
+
 **Note** When running check in code, you may have to re-run it a few times as an incomplete graph may be generated and that case is not handled.
+
 **Note** Additionally, if the graph is overly complex or many paths may be explored, java may run out of memory. 
 
 
 # Video:
 ### Graph Traversing:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Check-In.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Agent from start to goal based on PRM algorithm.
 
 ### 2D General Overview:
+
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-General.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + (0:10) Close up of clusters of boids following a path together.  (Local Interaction Technique)
@@ -29,42 +41,85 @@ Agent from start to goal based on PRM algorithm.
 
 ### 2D General Success 1:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Success-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + (0:00) Scenario showing agents successfully navigating through local minima.
 
 ### 2D General Success 2:
+
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Success-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + (0:00) Scenario showing agents successfully navigating through local minima.
 
 ### 2D General Success 3:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Success-3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + (0:00) Scenario showing agents successfully navigating through local minima.
 
 ### 2D General Failure:
+
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Failure.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + With how boids and obstacle collision is conducted, in small areas with many boids, some are pushed far into the boundaries of the obstacles.
 
 ### 2D Failure 2:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Failure-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Example of odd behavior:
+
 Behavior produced here is not correct as the boids never reach their goal. With the current path planning and agent interaction, if an agent is pushed in a direction where they cannot reach the goal by going forward the will be stuck for ever. Additionally, because the area the boids are trapped in is many circles, we see the collision is slightly off and from the force of other boids may be pushed out and may actually reach their goal which should not be possible. 
 
 ### 2D Interesting 1:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Interesting-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + Show  interesting interaction between agents
+
 With how the boids forces are calculated, if they all can't reach the goal and stop, as shown in the video, they circle the goal
 
 ### 2D Interesting 2 And 3:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Interesting-2-3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + Show  interesting interaction between agents
+
 When boids do not have goal, they cluster together and wonder around within the map(Interesting interaction 2). Interaction 3 shows what happens when agents have paths which conflict with one another. If no path is spawned boids wonder around, when a path is created they all move towards the start. This is mostly for testing, there is not path to the start except for direct. However, because of this we can see what happens when two crowds are moving in two directions. Several boids are "thrown" far away because of the forces from two crowds moving in opposite directions.
 
 ### 2D User Control:
+
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-User-Controls.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + (0:00) Allow the user to add and move obstacles 
@@ -75,6 +130,11 @@ When boids do not have goal, they cluster together and wonder around within the 
 
 ### 2D Planning Obstacles:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Obstacles.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + (0:00) Implement A* for graph search. performance improvement documented in **Benchmarks** section.
     + (0:00) Allow the user to add and move obstacles 
@@ -82,24 +142,41 @@ When boids do not have goal, they cluster together and wonder around within the 
 
 ### 3D Planning:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/3D-Planning.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + Support	full 3D navigation
+
 Video shows graph generate in 3D. It demonstrates the Boid algorithm in 3D. The path lines are turned on and off to show the path properly.
 
 ### 3D Planning Obstacle:
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/3D-Obstacles.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Features:
     + Support	full 3D navigation, obstacle demonstration
     + Nicely rendered 3D scene
+
 Every time a new graph is generate wasps return home. Boid is shown closer when agents are clustered at the goal. 
 
 # Benchmarks:
-A Star Comparison:
+### A* Comparison:
 For the **2D** graph creation, we ran both uniform cost search and A *. Below are the results from the two algorithms. In the videos present only A* was ran for speed. When our code is normally ran, both A* and Uniform Cost Search are done, with the number of connections checked being printed to the screen.
+
 Results of 3 different trials:
+
 UCS: 1659  A*: 20
+
 UCS: 319 A*:13
+
 UCS: 4137 A*:51
+
 
 The reason UCS is so much larger than A* is because our graph is not directed, like you may find in traditional UCS problems. Because of this, a really small path near the start, may be taken several times because of its low cost before any other paths are explored. By adding the distance from the end node of a path to the goal as a heuristic greatly reduces connections searched, as small distance is not the only thing taken into consideration. This also reduces the chance of A* exploring in the wrong direction.
 
@@ -132,6 +209,9 @@ The reason UCS is so much larger than A* is because our graph is not directed, l
 
 # Tools/Libraries Used:
 Processing Tutorials: [https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/)
+
 Processing Documentation: [https://processing.org/reference/](https://processing.org/reference/)
+
 Boid Overview: [https://www.red3d.com/cwr/boids/](https://www.red3d.com/cwr/boids/)
+
 Boid Visual Example: [https://www.youtube.com/watch?v=WUXq7GYH62Y](https://www.youtube.com/watch?v=WUXq7GYH62Y)
