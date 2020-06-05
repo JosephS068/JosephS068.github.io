@@ -25,15 +25,17 @@ Each particle system will run in its own file.
 #### Ball:
 ##### Video One
 
-<!-- [![ball](http://img.youtube.com/vi/EAiO_RGJ4_s/0.jpg)](http://www.youtube.com/watch?v=EAiO_RGJ4_s) -->
-<video width="320" height="240" controls>
+<video width="480" height="360" controls>
   <source src="https://JosephS068.github.io/Game_Projects/Particle_Resources/Videos/Ball-Screen.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 ##### Video Two, Phone
 
-[![ball](http://img.youtube.com/vi/mpOh034Lziw/0.jpg)](http://www.youtube.com/watch?v=mpOh034Lziw)
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Particle_Resources/Videos/Ball-Phone.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Due to lag from recording on laptop, another video from phone is offered to better capture smoothness.
 
@@ -41,7 +43,10 @@ Due to lag from recording on laptop, another video from phone is offered to bett
 
 ##### Video One
 
-[![water](http://img.youtube.com/vi/LDqUk5avYi0/0.jpg)](http://www.youtube.com/watch?v=LDqUk5avYi0)
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Particle_Resources/Videos/Water-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + 0:00 User controlled camera - translations
@@ -54,7 +59,10 @@ Due to lag from recording on laptop, another video from phone is offered to bett
 
 ##### Second Video, Higher Quality
 
-[![water](http://img.youtube.com/vi/GyfgG9Rh16k/0.jpg)](http://www.youtube.com/watch?v=GyfgG9Rh16k)
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Particle_Resources/Videos/Water-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + 0:00 User controlled camera - translations
@@ -65,7 +73,10 @@ Due to lag from recording on laptop, another video from phone is offered to bett
 
 #### Firework:
 
-[![Firework](http://img.youtube.com/vi/F8jolMr8XjM/0.jpg)](http://www.youtube.com/watch?v=F8jolMr8XjM)
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Particle_Resources/Videos/Fireworks.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
     + 0:00 User controlled camera - translations
