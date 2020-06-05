@@ -39,25 +39,25 @@ Due to lag from recording on laptop, another video from phone is offered to bett
 
 [![water](http://img.youtube.com/vi/LDqUk5avYi0/0.jpg)](http://www.youtube.com/watch?v=LDqUk5avYi0)
 
-Features:
-0:00 User controlled camera - translations
-0:15 User controlled camera - rotations
-0:25 Particles are textured
-0:30 Particles are shown to be translucent
-0:42 Arc of water is shown, the initial water particles are deeper blue than the later ones
-0:50 Zoom out to view splash, as the splash goes on, the particles fade until they fully disappear
-1:00 No additional features are shown after this point due to recording error
+*Features:
+    + 0:00 User controlled camera - translations
+    + 0:15 User controlled camera - rotations
+    + 0:25 Particles are textured
+    + 0:30 Particles are shown to be translucent
+    + 0:42 Arc of water is shown, the initial water particles are deeper blue than the later ones
+    + 0:50 Zoom out to view splash, as the splash goes on, the particles fade until they fully disappear
+    + 1:00 No additional features are shown after this point due to recording error
 
 ##### Second Video, Higher Quality
 
 [![water](http://img.youtube.com/vi/GyfgG9Rh16k/0.jpg)](http://www.youtube.com/watch?v=GyfgG9Rh16k)
 
-Features:
-0:00 User controlled camera - translations
-0:25 effects of lights on particles
-0:40 Zoom in on individual particle
-1:05 User interaction shown, press 'Y' or 'U' to move wall, 
-1:10 Water wall interaction
+* Features:
+    + 0:00 User controlled camera - translations
+    + 0:25 effects of lights on particles
+    + 0:40 Zoom in on individual particle
+    + 1:05 User interaction shown, press 'Y' or 'U' to move wall, 
+    + 1:10 Water wall interaction
 
 #### Firework:
 
@@ -73,48 +73,50 @@ Features:
 
 ### Benchmarks:
 Hardware: Macbook Pro 2017, Intel Iris Plus Graphics (10)
+
 Water: 8000 particles, 33 FPS
+
 Fireworks: 6000 particles, 40 FPS
 
 ### Images:
 #### Ball:
 
-##### Ball in the air
+##### Ball In Air
 ![Ball in air](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Air.png)
 
-##### Ball stopped
+##### Ball Stopped
 ![Ball stopped](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Stop.png)
 
 #### Water:
-##### General picture of the particle setting
+##### Water Particles
 ![General picture of the particle setting](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-All.png)
-##### Close up of the arc from the bottle
+##### Bottle Close Up
 ![Close up of the arc from the bottle](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Bottle.png)
-##### Up close picture of water particle after it has hit the ground
+##### Particle ground Interaction
 ![Up close picture of water particle after it has hit the ground](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Particle-Close.png)
-##### The splash of the water
+##### Water Splash
 ![The splash of the water](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Splash.png)
-##### The splash colliding with a wall
+##### Water Wall Collision
 ![The splash colliding with a wall](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Splash.png)
 ##### The splash colliding with a wall, far away
 ![The splash colliding with a wall, far away](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Splash-Away.png)
-##### The water flow colliding with a wall
+##### Water Wall Direct Contact
 ![The water flow colliding with a wall](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Flow.png)
-##### Texture used for water particles
+##### Water Texture
 ![Texture used for water particles](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/water.jpg)
 
 #### Fireworks:
-##### Initial state of scene
+##### Scene
 ![Initial state of scene](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-Initial.png)
-##### Firework phase 1
+##### Firework Phase 1
 ![Firework phase 1](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-1.png)
-##### Firework phase 2
+##### Firework Phase 2
 ![Firework phase 2](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-2.png)
-##### Firework with multiple bullets. 
+##### Fireworks Multiple Bullets
 ![Firework with multiple bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Bullets.png)
-##### Firework with several explosions
+##### Fireworks Several Explosions
 ![Firework with several explosions](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several2.png)
-##### Firework with several explosions with bullets
+##### Fireworks Bullets And Explosions 
 ![Firework with several explosions with bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several.png)
 ### Tools/Libraries Used:
 Processing: [https://processing.org/reference/](https://processing.org/reference/)
