@@ -23,18 +23,17 @@ Each particle system will run in it's own file.
 
 ### Video:
 Ball:
-Video One
+##### Video One
+
 [![ball](http://img.youtube.com/vi/EAiO_RGJ4_s/0.jpg)](http://www.youtube.com/watch?v=EAiO_RGJ4_s)
 
-Shows bouncing ball in 2D.
-
-Video Two, Phone
+##### Video Two, Phone
 
 
 Due to lag from recording on laptop, another video from phone is offered to better capture smoothness.
 
 #### Water:
-Video One
+##### Video One
 
 Features:
 0:00 User controlled camera - translations
@@ -44,7 +43,8 @@ Features:
 0:42 Arc of water is shown, the initial water particles are deeper blue than the later ones
 0:50 Zoom out to view splash, as the splash goes on, the particles fade until they fully disappear
 1:00 No additional features are shown after this point due to recording error
-Second Video, Higher Quality
+
+##### Second Video, Higher Quality
 
 
 Features:
