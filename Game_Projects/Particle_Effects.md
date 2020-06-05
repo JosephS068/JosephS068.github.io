@@ -70,10 +70,10 @@ Fireworks: 6000 particles, 40 FPS
 #### Ball:
 
 Ball in the air
-(https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Air.png)
+![Ball in air](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Air.png)
 
 Ball stopped
-(https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Stop.png)
+![Ball stopped](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Stop.png)
 
 #### Water:
 
