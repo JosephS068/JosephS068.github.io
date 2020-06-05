@@ -1,5 +1,5 @@
 # Particle Systems
-Created with the assitance of Yufeng Liu (liux4158@umn.edu)
+Created with Yufeng Liu (liux4158@umn.edu)
 
 ### Description:
 
