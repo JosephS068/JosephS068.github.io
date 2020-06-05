@@ -4,7 +4,8 @@ Created with the assitance of Yufeng Liu (liux4158@umn.edu)
 ### Description:
 
 All of the particles shown use Eulerian integration. 
-Bouncing Ball:
+
+### Bouncing Ball:
 The particle in here is a ball which bounces in 2D. It moves to the right of the screen initially, and eventually come to rest on the right side of the screen.
 
 ### Water:
@@ -16,7 +17,7 @@ When the screen loads, three different colored ray guns are shown. When the user
 Context: Gun which shoots fireworks.
 
 ### Code:
-# Place in new link
+Code: [https://github.com/JosephS068/Processing-Particle-Systems](https://github.com/JosephS068/Processing-Particle-Systems)
 Each particle system will run in it's own file. 
 
 ### Video:
@@ -109,7 +110,11 @@ Fireworks: 6000 particles, 40 FPS
 ![Firework with several explosions with bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several.png)
 ### Tools/Libraries Used:
 Processing: [https://processing.org/reference/](https://processing.org/reference/)
+
 Processing's Tutorials: [https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/)
+
 Processing Documentation: [https://processing.org/reference/](https://processing.org/reference/)
+
 Water Texture: [https://www.flickr.com/photos/freefoto/1239764571/in/photostream/](https://www.flickr.com/photos/freefoto/1239764571/in/photostream/)
+
 Bullet: [http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj](http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj)
