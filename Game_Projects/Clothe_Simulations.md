@@ -122,9 +122,13 @@ Your browser does not support the video tag.
 
 ### Benchmarks:
 15x15 cloth, 20 FPS
+
 20x20 cloth 30 FPS
+
 30x30 cloth 30 FPS
+
 Processor: Intel i7-9750H
+
 ### Images:
 #### Threads
 ##### Thread In Motion
