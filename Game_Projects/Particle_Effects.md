@@ -76,26 +76,25 @@ Fireworks: 6000 particles, 40 FPS
 ![Ball stopped](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Stop.png)
 
 #### Water:
-
 ##### General picture of the particle setting
-
+![General picture of the particle setting](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-All.png)
 ##### Close up of the arc from the bottle
-
+![Close up of the arc from the bottle](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Bottle.png)
 ##### Up close picture of water particle after it has hit the ground
-
+![Up close picture of water particle after it has hit the ground](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Particle-Close.png)
 ##### The splash of the water
-
+![The splash of the water](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Splash.png)
 ##### The splash colliding with a wall
-
+![The splash colliding with a wall](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Splash.png)
 ##### The splash colliding with a wall, far away
-
+![The splash colliding with a wall, far away](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Splash-Away.png)
 ##### The water flow colliding with a wall
-
+![The water flow colliding with a wall](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Flow.png)
 ##### Texture used for water particles
+![Texture used for water particles](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/water.jpg)
 Copyright free found here: https://www.flickr.com/photos/freefoto/1239764571/in/photostream/ 
 
 #### Fireworks:
-
 ##### Initial state of scene
 
 ##### Firework phase 1
