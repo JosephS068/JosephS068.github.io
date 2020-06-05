@@ -39,7 +39,7 @@ Due to lag from recording on laptop, another video from phone is offered to bett
 
 [![water](http://img.youtube.com/vi/LDqUk5avYi0/0.jpg)](http://www.youtube.com/watch?v=LDqUk5avYi0)
 
-*Features:
+* Features:
     + 0:00 User controlled camera - translations
     + 0:15 User controlled camera - rotations
     + 0:25 Particles are textured
