@@ -104,37 +104,31 @@ Height is added and taken away from the water throughout the video, the user can
 Processor: Intel i7-9750H
 ### Images:
 #### Threads
-Thread In Motion
+##### Thread In Motion
+![Thread In Motion](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Thread_Images/thread-motion.png)
 
-
-Thread At Rest
-
-
-Occurs when all velocities are zero. 
+##### Thread At Rest
+![Thread At Rest](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Thread_Images/thread-rest.png)
 
 #### Cloth
 ##### Cloth Scene Update Ball Interaction
-
+![Cloth Scene Update Ball Interaction](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Ball-Interaction.png)
 ##### Cloth Scene Update No Interaction
-
+![Cloth Scene Update Ball Interaction](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Ball-No-Interaction.png)
 ##### Cloth Normal
-
+![Cloth Normal](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Cloth-Normal.png)
 ##### Cloth Cut
-
+![Cloth Cut](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Cloth-Cut.png)
 ##### Cloth Clean Cut
-
+![Cloth Clean Cut](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Cloth-Cut-Clean.png)
 
 #### Water
 ##### Water High
-
-##### Water Low
-
+![Water High](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Water_Images/Water-High.png)
 ##### Super Secret
-
+![Super Secret](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Water_Images/Water-Secret.png)
 ##### Motion
-
-##### Art Photos
-
+![Motion](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Water_Images/Water-Motion.png)
 ### Tools/Libraries Used:
 Processing
 Minim - for audio playing in processing
