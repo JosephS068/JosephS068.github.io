@@ -31,7 +31,7 @@ Initially a normal cloth is shown blowing in the wind until it falls from the fo
  We see a water in 1D which is simulated between two pillars. When water is removed or added we can see that eventually the water will even out. The user is able to add and remove water at will to see its effects. There is a shark which floats on top of the water. There is a treasure hidden behind the water which is only seen by lowering the water(no in video).
 
 ### Code:
-All of the code can be found here: https://github.com/JosephS068/Processing-Cloth-Simulation
+All of the code can be found here: [https://github.com/JosephS068/Processing-Cloth-Simulation](https://github.com/JosephS068/Processing-Cloth-Simulation)
 ### Video:
 #### Threads
 
@@ -50,11 +50,11 @@ Your browser does not support the video tag.
 </video>
 
 * Features:
- + (0:00) 2D Mass-spring cloth simulation (Cloth interacts in 3D, including 2D)
- + (0:00) 3D Mass-spring cloth simulation
- + (0:05) One way cloth interaction (Sphere) Please note the disco ball rotating is purely cosmetic, the collision is treated as if it was a stationary sphere.
- + (0:35) One way cloth interaction (Square)
- + (0:00) Textured cloth
+    + (0:00) 2D Mass-spring cloth simulation (Cloth interacts in 3D, including 2D)
+    + (0:00) 3D Mass-spring cloth simulation
+    + (0:05) One way cloth interaction (Sphere) Please note the disco ball rotating is purely cosmetic, the collision is treated as if it was a stationary sphere.
+    + (0:35) One way cloth interaction (Square)
+    + (0:00) Textured cloth
 
 #### Drag Terms and Midpoint
 
@@ -64,16 +64,16 @@ Your browser does not support the video tag.
 </video>
 
  * Features:
- + (0:00) Drag terms, initially cloth has drag, (0:37) then no drag is applied
- + (0:00) Eulerian initially used by the cloth
- + (1:20) Midpoint
- + (Below) Integration method comparisons
+    + (0:00) Drag terms, initially cloth has drag, (0:37) then no drag is applied
+    + (0:00) Eulerian initially used by the cloth
+    + (1:20) Midpoint
+    + (Below) Integration method comparisons
 
  * **Comparison Between Integration Methods**
- + (0:00) Eulerian initial
- + (1:20) Midpoint initial
- + (1:40) Eulerian broken
- + (1:55) Midpoint not broken
+    + (0:00) Eulerian initial
+    + (1:20) Midpoint initial
+    + (1:40) Eulerian broken
+    + (1:55) Midpoint not broken
 
 First when we started the midpoint algorithm(1:20) we had a slower framerate than eulerian(0:00). When the time step was increased the eulerian was shown to be unstable(1:40) while the midpoint method worked(1:55).
 
@@ -89,10 +89,10 @@ Your browser does not support the video tag.
 </video>
 
 * Features:
- + (1) (0:00) Realtime Rendering
- + (1) (0:11) Real-time user interaction with system
- + (1) (0:12) Tear-able cloth
- + (2) (0:00) 3D Rendering with user-controlled camera
+    + (1) (0:00) Realtime Rendering
+    + (1) (0:11) Real-time user interaction with system
+    + (1) (0:12) Tear-able cloth
+    + (2) (0:00) 3D Rendering with user-controlled camera
 
 First Video:
 The cloth is cut in this video twice, once partially to show the rest of the cloth rip, then finally all the way through. The sword is controlled by the user.
@@ -115,9 +115,10 @@ The first cloth shown does not have extra springs attached. Wind is added to cre
   <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/1D-Water.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-* Features:
- + (0:00) 1D Water surface, shallow water equation
- + Height is added and taken away from the water throughout the video, the user can add and remove water and this causes the waves. 
+
+ * Features:
+    + (0:00) 1D Water surface, shallow water equation
+    + Height is added and taken away from the water throughout the video, the user can add and remove water and this causes the waves. 
 
 ### Benchmarks:
 15x15 cloth, 20 FPS
