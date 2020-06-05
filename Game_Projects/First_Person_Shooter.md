@@ -64,42 +64,104 @@ Video shows:
     I was unable to record audio with my software on my laptop. A phone video is taken to provide a general overview of the audio present in game. 
 
 # Images
-Target Area
-Pipe With Collision
+## Target Area
+### Pipe With Collision
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/pip.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Player Firing, Hitting Target
+### Player Firing, Hitting Target
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/target-shot.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-All Targets Cleared
+### All Targets Cleared
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/target-reload.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-No Targets Hit
+### No Targets Hit
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/Target.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+## Boss Fight
+### Boss' Traps
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-traps.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Boss Fight
-Boss' Traps
+### Boss' Shield Up
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-shield.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Boss' Shield Up
+### Boss Dead
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-dead.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Boss Dead
+### Boss Following Player
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Boss Following Player
-Death Screen
+### Death Screen
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/Death.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+### Obstacle Course
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-1.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Obstacle Course
+### Final Corridor
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-2.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+### Player Shooting Enemy, In Final Elevator
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-3.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+### Corridor Empty
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/parasite-hallway.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-
-Final Corridor
-Player Shooting Enemy, In Final Elevator
-
-Corridor Empty
-Win Screen Glitch
+### Win Screen Glitch
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/win.png" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 # Maps For Level Creation
 Below are the maps I used while programming the level, it was used to help figure out each obstacle's coordinates, as well as provide the ground work of the level's layout. It's primary use was keeping track of how Z axis and X axis were positioned. I gave every wall an id, which allowed for quick map creation. Finally when coloring floors/ceilings the below maps are used
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/map.jpg" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/map-3.jpg" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 # Benchmarks:
 Though FPS bench marks were not taken, an exported version of this game was played on a Mac Book running windows. Which was found to have a large decrease in performance compared to my Acer laptop. I made this note, because the Acer laptop used to develop this game was weaker than the Mac Book. To improve performance on all machines, parts of the level is removed from collision check after passing a certain section. Additionally, short audio clips are loaded in memory at the start up.
