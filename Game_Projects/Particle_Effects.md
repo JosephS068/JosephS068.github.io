@@ -25,7 +25,11 @@ Each particle system will run in it's own file.
 Ball:
 ##### Video One
 
-[![ball](http://img.youtube.com/vi/EAiO_RGJ4_s/0.jpg)](http://www.youtube.com/watch?v=EAiO_RGJ4_s)
+<!-- [![ball](http://img.youtube.com/vi/EAiO_RGJ4_s/0.jpg)](http://www.youtube.com/watch?v=EAiO_RGJ4_s) -->
+<video width="320" height="240" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Particle_Resources/Videos/Ball-Screen.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ##### Video Two, Phone
 
