@@ -94,10 +94,14 @@ Your browser does not support the video tag.
     + (1) (0:12) Tear-able cloth
     + (2) (0:00) 3D Rendering with user-controlled camera
 
-First Video:
+**First Video:**
+
 The cloth is cut in this video twice, once partially to show the rest of the cloth rip, then finally all the way through. The sword is controlled by the user.
+
 If you are using the cloth tear file, you may have to restart it a few times as rocks may generate where the flag is.
-Second Video:
+
+**Second Video:**
+
 Camera controls are shown off. The cloth is cut, but not enough is cut for it to pull apart.
 
 #### Skip Nodes
