@@ -18,12 +18,13 @@ Context: Gun which shoots fireworks.
 
 ### Code:
 Code: [https://github.com/JosephS068/Processing-Particle-Systems](https://github.com/JosephS068/Processing-Particle-Systems)
+
 Each particle system will run in it's own file. 
 
 ### Video:
 Ball:
 Video One
-
+[![ball](http://img.youtube.com/vi/EAiO_RGJ4_s/0.jpg)](http://www.youtube.com/watch?v=EAiO_RGJ4_s)
 
 Shows bouncing ball in 2D.
 
