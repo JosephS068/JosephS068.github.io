@@ -82,7 +82,7 @@ Your browser does not support the video tag.
 ### 2D Failure 2:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Failure-2.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Fail-2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
