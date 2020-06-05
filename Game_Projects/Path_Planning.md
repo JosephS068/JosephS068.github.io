@@ -22,7 +22,7 @@ All of the code can be found here: [https://github.com/JosephS068/Processing-Pat
 ### Graph Traversing:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Check-In.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/Check-In.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -31,7 +31,7 @@ Agent from start to goal based on PRM algorithm.
 ### 2D General Overview:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-General.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-General.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
 ### 2D General Success 1:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Success-1.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Success-1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -52,7 +52,7 @@ Your browser does not support the video tag.
 ### 2D General Success 2:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Success-2.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Success-2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -62,7 +62,7 @@ Your browser does not support the video tag.
 ### 2D General Success 3:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Success-3.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Success-3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -72,7 +72,7 @@ Your browser does not support the video tag.
 ### 2D General Failure:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Failure.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Failure.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -82,7 +82,7 @@ Your browser does not support the video tag.
 ### 2D Failure 2:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Failure-2.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Failure-2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -93,7 +93,7 @@ Behavior produced here is not correct as the boids never reach their goal. With 
 ### 2D Interesting 1:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Interesting-1.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Interesting-1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -105,7 +105,7 @@ With how the boids forces are calculated, if they all can't reach the goal and s
 ### 2D Interesting 2 And 3:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Interesting-2-3.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Interesting-2-3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -117,7 +117,7 @@ When boids do not have goal, they cluster together and wonder around within the 
 ### 2D User Control:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-User-Controls.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-User-Controls.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -131,7 +131,7 @@ Your browser does not support the video tag.
 ### 2D Planning Obstacles:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/2D-Obstacles.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/2D-Obstacles.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -143,7 +143,7 @@ Your browser does not support the video tag.
 ### 3D Planning:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/3D-Planning.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/3D-Planning.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -155,7 +155,7 @@ Video shows graph generate in 3D. It demonstrates the Boid algorithm in 3D. The 
 ### 3D Planning Obstacle:
 
 <video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/3D-Obstacles.mp4" type="video/mp4">
+  <source src="https://JosephS068.github.io/Game_Projects/Path_Resources/Videos/3D-Obstacles.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
