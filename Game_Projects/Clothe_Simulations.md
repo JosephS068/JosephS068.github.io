@@ -1,4 +1,4 @@
-# Clothe Simulation
+# Cloth Simulation
 Created with Rishab Girdhar (girdh005@umn.edu)
 
 ### Description:
@@ -105,30 +105,30 @@ Processor: Intel i7-9750H
 ### Images:
 #### Threads
 ##### Thread In Motion
-![Thread In Motion](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Thread_Images/thread-motion.png)
+![Thread In Motion](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Thread_Images/thread-motion.png)
 
 ##### Thread At Rest
-![Thread At Rest](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Thread_Images/thread-rest.png)
+![Thread At Rest](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Thread_Images/thread-rest.png)
 
 #### Cloth
 ##### Cloth Scene Update Ball Interaction
-![Cloth Scene Update Ball Interaction](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Ball-Interaction.png)
+![Cloth Scene Update Ball Interaction](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Cloth_Images/Ball-Interaction.png)
 ##### Cloth Scene Update No Interaction
-![Cloth Scene Update Ball Interaction](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Ball-No-Interaction.png)
+![Cloth Scene Update Ball Interaction](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Cloth_Images/Ball-No-Interaction.png)
 ##### Cloth Normal
-![Cloth Normal](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Cloth-Normal.png)
+![Cloth Normal](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Cloth_Images/Cloth-Normal.png)
 ##### Cloth Cut
-![Cloth Cut](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Cloth-Cut.png)
+![Cloth Cut](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Cloth_Images/Cloth-Cut.png)
 ##### Cloth Clean Cut
-![Cloth Clean Cut](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Clothe_Images/Cloth-Cut-Clean.png)
+![Cloth Clean Cut](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Cloth_Images/Cloth-Clean-Cut.png)
 
 #### Water
 ##### Water High
-![Water High](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Water_Images/Water-High.png)
+![Water High](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Water_Images/Water-High.png)
 ##### Super Secret
-![Super Secret](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Water_Images/Water-Secret.png)
+![Super Secret](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Water_Images/Water-Secret.png)
 ##### Motion
-![Motion](https://JosephS068.github.io/Game_Projects/Clothe_Resources/Water_Images/Water-Motion.png)
+![Motion](https://JosephS068.github.io/Game_Projects/Cloth_Resources/Water_Images/Water-Motion.png)
 ### Tools/Libraries Used:
 Processing
 Minim - for audio playing in processing
