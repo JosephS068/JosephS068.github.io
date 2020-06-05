@@ -179,11 +179,8 @@ Trap Place: [http://www.orangefreesounds.com/footstep-single-ice/](http://www.or
 Sword Spin: [http://www.orangefreesounds.com/fan-sound-effect/](http://www.orangefreesounds.com/fan-sound-effect/)
 
 Bullet Deflect: [http://soundbible.com/1464-Western-Ricochet.html](http://soundbible.com/1464-Western-Ricochet.html)
-
 Target Hit: [http://soundbible.com/1781-Metal-Clang.html](http://soundbible.com/1781-Metal-Clang.html)
-
 Teleport: [http://soundbible.com/1885-Martian-Death-Ray.html](http://soundbible.com/1885-Martian-Death-Ray.html)
-
 Trap Closed: [http://soundbible.com/1104-Metal-Clank-Wobble.html](http://soundbible.com/1104-Metal-Clank-Wobble.html)
 
 Textures:
