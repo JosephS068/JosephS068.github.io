@@ -124,7 +124,8 @@ Your browser does not support the video tag.
 
  * Features:
     + (0:00) 1D Water surface, shallow water equation
-    + Height is added and taken away from the water throughout the video, the user can add and remove water and this causes the waves. 
+
+Height is added and taken away from the water throughout the video, the user can add and remove water and this causes the waves. 
 
 ### Benchmarks:
 15x15 cloth, 20 FPS
