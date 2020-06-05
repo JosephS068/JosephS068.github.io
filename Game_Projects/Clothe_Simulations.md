@@ -31,7 +31,7 @@ Initially a normal cloth is shown blowing in the wind until it falls from the fo
  We see a water in 1D which is simulated between two pillars. When water is removed or added we can see that eventually the water will even out. The user is able to add and remove water at will to see its effects. There is a shark which floats on top of the water. There is a treasure hidden behind the water which is only seen by lowering the water(no in video).
 
 ### Code:
-All of the code for this homework can be found here: https://github.umn.edu/spiel068/csci5611-HW2
+All of the code can be found here: https://github.com/JosephS068/Processing-Cloth-Simulation
 ### Video:
 Video of Threads
 
