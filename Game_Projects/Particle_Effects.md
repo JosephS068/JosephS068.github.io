@@ -31,7 +31,7 @@ Video Two, Phone
 
 Due to lag from recording on laptop, another video from phone is offered to better capture smoothness.
 
-Water:
+#### Water:
 Video One
 
 Features:
@@ -51,7 +51,8 @@ Features:
 0:40 Zoom in on individual particle
 1:05 User interaction shown, press 'Y' or 'U' to move wall, 
 1:10 Water wall interaction
-Firework:
+
+#### Firework:
 
 Features:
 0:00 User controlled camera - translations
@@ -92,7 +93,6 @@ Fireworks: 6000 particles, 40 FPS
 ![The water flow colliding with a wall](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/Water-Wall-Flow.png)
 ##### Texture used for water particles
 ![Texture used for water particles](https://JosephS068.github.io/Game_Projects/Particle_Resources/Water_Images/water.jpg)
-Copyright free found here: https://www.flickr.com/photos/freefoto/1239764571/in/photostream/ 
 
 #### Fireworks:
 ##### Initial state of scene
@@ -101,15 +101,15 @@ Copyright free found here: https://www.flickr.com/photos/freefoto/1239764571/in/
 ![Firework phase 1](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-1.png)
 ##### Firework phase 2
 ![Firework phase 2](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-2.png)
-##### Firework with multiple bullets. Bullet model found here: http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj
+##### Firework with multiple bullets. 
 ![Firework with multiple bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Bullets.png)
 ##### Firework with several explosions
 ![Firework with several explosions](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several2.png)
 ##### Firework with several explosions with bullets
 ![Firework with several explosions with bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several.png)
 ### Tools/Libraries Used:
-Processing
-Other Resources Used:
-Used processing's intro tutorials. https://processing.org/tutorials/p3d/
-Processing documentation for method definitions. https://processing.org/reference/
-Classroom slides, for simple examples within processing and equations for random sampling. 
+Processing: [https://processing.org/reference/](https://processing.org/reference/)
+Processing's Tutorials: [https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/)
+Processing Documentation: [https://processing.org/reference/](https://processing.org/reference/)
+Water Texture: [https://www.flickr.com/photos/freefoto/1239764571/in/photostream/](https://www.flickr.com/photos/freefoto/1239764571/in/photostream/)
+Bullet: [http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj](http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj)
