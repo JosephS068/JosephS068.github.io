@@ -110,9 +110,11 @@ Below are the maps I used while programming the level, it was used to help figur
 Though FPS bench marks were not taken, an exported version of this game was played on a Mac Book running windows. Which was found to have a large decrease in performance compared to my Acer laptop. I made this note, because the Acer laptop used to develop this game was weaker than the Mac Book. To improve performance on all machines, parts of the level is removed from collision check after passing a certain section. Additionally, short audio clips are loaded in memory at the start up.
 
 # Tools/Libraries Used:
-Processing: https://processing.org/
-Minim: http://code.compartmental.net/minim/
-Audacity: https://www.audacityteam.org
+Processing: [https://processing.org/](https://processing.org/)
+
+Minim: [http://code.compartmental.net/minim/](http://code.compartmental.net/minim/)
+
+Audacity: [https://www.audacityteam.org](https://www.audacityteam.org)
 
 Code Reference:
 Code snippets from Homework 3 used.
@@ -120,19 +122,23 @@ Code from Homework 1 used as examples when creating particle systems.
 
 FPS Camera:
 While no code was directly used from the following source, it was helpful in understanding a working first person camera.
-https://forum.processing.org/one/topic/1st-person-perspective.html
+
+[https://forum.processing.org/one/topic/1st-person-perspective.html](https://forum.processing.org/one/topic/1st-person-perspective.html)
 
 Mouse Controls:
 No code directly used, but information helped develop mouse controls. 
-https://processing.org/discourse/beta/num_1226167144.html#4
-https://stackoverflow.com/questions/1439022/get-mouse-position
+
+[https://processing.org/discourse/beta/num_1226167144.html#4](https://processing.org/discourse/beta/num_1226167144.html#4)
+
+[https://stackoverflow.com/questions/1439022/get-mouse-position](https://stackoverflow.com/questions/1439022/get-mouse-position)
 
 Exporting Application:
-https://stackoverflow.com/questions/11832342/processing-exported-applet-not-working
+
+[https://stackoverflow.com/questions/11832342/processing-exported-applet-not-working](https://stackoverflow.com/questions/11832342/processing-exported-applet-not-working)
 
 When using audio library, had lag issue and null pointers. Following post helped fix that issue.
-https://github.com/ddf/Minim/issues/45
 
+[https://github.com/ddf/Minim/issues/45](https://github.com/ddf/Minim/issues/45)
 
 Music:
 
@@ -178,9 +184,9 @@ Trap Place: [http://www.orangefreesounds.com/footstep-single-ice/](http://www.or
 
 Sword Spin: [http://www.orangefreesounds.com/fan-sound-effect/](http://www.orangefreesounds.com/fan-sound-effect/)
 
-Bullet Deflect: [http://soundbible.com/1464-Western-Ricochet.html](http://soundbible.com/1464-Western-Ricochet.html)
-Target Hit: [http://soundbible.com/1781-Metal-Clang.html](http://soundbible.com/1781-Metal-Clang.html)
-Teleport: [http://soundbible.com/1885-Martian-Death-Ray.html](http://soundbible.com/1885-Martian-Death-Ray.html)
+Bullet Deflect: [http://soundbible.com/1464-Western-Ricochet.html](http://soundbible.com/1464-Western-Ricochet.html)<br />
+Target Hit: [http://soundbible.com/1781-Metal-Clang.html](http://soundbible.com/1781-Metal-Clang.html)<br />
+Teleport: [http://soundbible.com/1885-Martian-Death-Ray.html](http://soundbible.com/1885-Martian-Death-Ray.html)<br />
 Trap Closed: [http://soundbible.com/1104-Metal-Clank-Wobble.html](http://soundbible.com/1104-Metal-Clank-Wobble.html)
 
 Textures:
