@@ -33,13 +33,21 @@ Initially a normal cloth is shown blowing in the wind until it falls from the fo
 ### Code:
 All of the code can be found here: https://github.com/JosephS068/Processing-Cloth-Simulation
 ### Video:
-Video of Threads
+#### Threads
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Thread.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Velocity is randomized for each mass at the beginning.
 
-Video of General Cloth
+#### General Cloth
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Cloth-Cube-Sphere.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
  + (0:00) 2D Mass-spring cloth simulation (Cloth interacts in 3D, including 2D)
@@ -48,8 +56,12 @@ Video of General Cloth
  + (0:35) One way cloth interaction (Square)
  + (0:00) Textured cloth
 
-Video of Drag Terms and Midpoint
+#### Drag Terms and Midpoint
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Comparison.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
  * Features:
  + (0:00) Drag terms, initially cloth has drag, (0:37) then no drag is applied
@@ -57,8 +69,7 @@ Video of Drag Terms and Midpoint
  + (1:20) Midpoint
  + (Below) Integration method comparisons
 
-Comparison Between Integration Methods
-* Features:
+ * **Comparison Between Integration Methods**
  + (0:00) Eulerian initial
  + (1:20) Midpoint initial
  + (1:40) Eulerian broken
@@ -66,10 +77,16 @@ Comparison Between Integration Methods
 
 First when we started the midpoint algorithm(1:20) we had a slower framerate than eulerian(0:00). When the time step was increased the eulerian was shown to be unstable(1:40) while the midpoint method worked(1:55).
 
-Video of Tear-able Cloth
+#### Tear-able Cloth
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Cloth-Tear-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-
-
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Cloth-Tear-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Features:
  + (1) (0:00) Realtime Rendering
@@ -83,20 +100,25 @@ If you are using the cloth tear file, you may have to restart it a few times as 
 Second Video:
 Camera controls are shown off. The cloth is cut, but not enough is cut for it to pull apart.
 
-Video of skip nodes
-
-
+#### Skip Nodes
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Node-Skip.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 Features:
 (0:03) Billowing/blowing effect
 (0:35) skip nodes comparison
 The first cloth shown does not have extra springs attached. Wind is added to create a blowing effect. This effect is used to show the difference between a regular cloth and a cloth with additional springs. The video then shows a cloth with additional skip springs and how it is stiffer. 
 
-Video of 1D Water
+#### 1D Water
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/1D-Water.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+* Features:
+ + (0:00) 1D Water surface, shallow water equation
+ + Height is added and taken away from the water throughout the video, the user can add and remove water and this causes the waves. 
 
-
-Features:
-(0:00) 1D Water surface, shallow water equation
-Height is added and taken away from the water throughout the video, the user can add and remove water and this causes the waves. 
 ### Benchmarks:
 15x15 cloth, 20 FPS
 20x20 cloth 30 FPS
