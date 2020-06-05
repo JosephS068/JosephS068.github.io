@@ -1,5 +1,6 @@
 # Description:
 A simple first person shooter made in processing. 
+
 # Final Report PUT IT HERE
 
 # Project Presentation:
@@ -9,22 +10,16 @@ A simple first person shooter made in processing.
 Originally, I thought the presentation had to be 3 minutes. Here is the longer version, it had additional slides and talks briefly about the particle effects.
 
 # Controls:
-wasd - movement
+wasd - movement<br />
+arrow - looking<br />
+/ - shoot<br />
+space - jump<br />
+l - quit<br />
+m - change to mouse controls<br />
+r - reload<br />
 
-arrow - looking
-
-/ - shoot
-
-space - jump
-
-l - quit
-
-m - change to mouse controls
-
-r - reload
-
-#Code:
-The code for this project can be found here: https://github.umn.edu/spiel068/csci5611-Final
+# Code:
+The code for this project can be found here: [https://github.com/JosephS068/Processing-First-Person-Shooter](https://github.com/JosephS068/Processing-First-Person-Shooter)
 
 Known ISSUES:
 
@@ -110,86 +105,56 @@ Below are the maps I used while programming the level, it was used to help figur
 Though FPS bench marks were not taken, an exported version of this game was played on a Mac Book running windows. Which was found to have a large decrease in performance compared to my Acer laptop. I made this note, because the Acer laptop used to develop this game was weaker than the Mac Book. To improve performance on all machines, parts of the level is removed from collision check after passing a certain section. Additionally, short audio clips are loaded in memory at the start up.
 
 # Tools/Libraries Used:
-Processing: [https://processing.org/](https://processing.org/)
-
-Minim: [http://code.compartmental.net/minim/](http://code.compartmental.net/minim/)
-
+Processing: [https://processing.org/](https://processing.org/)<br />
+Minim: [http://code.compartmental.net/minim/](http://code.compartmental.net/minim/)<br />
 Audacity: [https://www.audacityteam.org](https://www.audacityteam.org)
 
-Code Reference:
-Code snippets from Homework 3 used.
-Code from Homework 1 used as examples when creating particle systems.
-
-FPS Camera:
+FPS Camera:<br />
 While no code was directly used from the following source, it was helpful in understanding a working first person camera.
-
 [https://forum.processing.org/one/topic/1st-person-perspective.html](https://forum.processing.org/one/topic/1st-person-perspective.html)
 
-Mouse Controls:
-No code directly used, but information helped develop mouse controls. 
-
-[https://processing.org/discourse/beta/num_1226167144.html#4](https://processing.org/discourse/beta/num_1226167144.html#4)
-
+Mouse Controls:<br />
+No code directly used, but information helped develop mouse controls. <br />
+[https://processing.org/discourse/beta/num_1226167144.html#4](https://processing.org/discourse/beta/num_1226167144.html#4)<br />
 [https://stackoverflow.com/questions/1439022/get-mouse-position](https://stackoverflow.com/questions/1439022/get-mouse-position)
 
-Exporting Application:
-
+Exporting Application:<br />
 [https://stackoverflow.com/questions/11832342/processing-exported-applet-not-working](https://stackoverflow.com/questions/11832342/processing-exported-applet-not-working)
 
-When using audio library, had lag issue and null pointers. Following post helped fix that issue.
-
+When using audio library, had lag issue and null pointers. Following post helped fix that issue.<br />
 [https://github.com/ddf/Minim/issues/45](https://github.com/ddf/Minim/issues/45)
 
-Music:
-
+##### Music:
 All music in this game was produced by Sam Aschenbrenner.
 
-Play Testing:
-
+##### Play Testing:
 Sam Aschenbrenner
 
-Voices:
+##### Voices:
+Hurt/Death sound effects by Jake Brocken<br />
+General/Sergeant U.S.A by Alex Buelow<br />
 
-Hurt/Death sound effects by Jake Brocken
+Icons:<br />
+Cross Hair:  [https://image.flaticon.com/icons/png/512/59/59325.png](https://image.flaticon.com/icons/png/512/59/59325.png)<br />
+Ammo: [https://image.flaticon.com/icons/png/512/225/225814.png](https://image.flaticon.com/icons/png/512/225/225814.png)<br />
+Heart: [https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon-bw%2Fheart-icon-transparent-background-22.png&f=1&nofb=1](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon-bw%2Fheart-icon-transparent-background-22.png&f=1&nofb=1)<br />
 
-General/Sergeant U.S.A by Alex Buelow
-
-Icons:
-
-Cross Hair:  [https://image.flaticon.com/icons/png/512/59/59325.png](https://image.flaticon.com/icons/png/512/59/59325.png)
-
-Ammo: [https://image.flaticon.com/icons/png/512/225/225814.png](https://image.flaticon.com/icons/png/512/225/225814.png)
-
-Heart: [https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon-bw%2Fheart-icon-transparent-background-22.png&f=1&nofb=1](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon-bw%2Fheart-icon-transparent-background-22.png&f=1&nofb=1)
-
-Sound Effects:
-
-GunShot: [http://soundbible.com/2120-9mm-Gunshot.html](http://soundbible.com/2120-9mm-Gunshot.html)
-
-Reload: [http://soundbible.com/1959-Shotgun-Reload-Pump.html](http://soundbible.com/1959-Shotgun-Reload-Pump.html)
-
-Footsteps: [http://www.orangefreesounds.com/walking-footsteps-on-metal-surface/](http://www.orangefreesounds.com/walking-footsteps-on-metal-surface/)
-
-Explosion: [http://www.orangefreesounds.com/explosion-sound-effect/](http://www.orangefreesounds.com/explosion-sound-effect/)
-
-Door Open: [http://www.orangefreesounds.com/metro-door-open-sound/](http://www.orangefreesounds.com/metro-door-open-sound/)
-
-Robot Hurt 1: [http://soundbible.com/906-Drop-Sword.html](http://soundbible.com/906-Drop-Sword.html)
-
-Robot Hurt 2: [http://www.orangefreesounds.com/crash-sound-effect/](http://www.orangefreesounds.com/crash-sound-effect/)
-
-Robot Hurt 3: [http://www.orangefreesounds.com/metal-door-closing-sound-effect/](http://www.orangefreesounds.com/metal-door-closing-sound-effect/)
-
-Trap Place: [http://www.orangefreesounds.com/footstep-single-ice/](http://www.orangefreesounds.com/footstep-single-ice/)
-
-Sword Spin: [http://www.orangefreesounds.com/fan-sound-effect/](http://www.orangefreesounds.com/fan-sound-effect/)
-
+Sound Effects:<br />
+GunShot: [http://soundbible.com/2120-9mm-Gunshot.html](http://soundbible.com/2120-9mm-Gunshot.html)<br />
+Reload: [http://soundbible.com/1959-Shotgun-Reload-Pump.html](http://soundbible.com/1959-Shotgun-Reload-Pump.html)<br />
+Footsteps: [http://www.orangefreesounds.com/walking-footsteps-on-metal-surface/](http://www.orangefreesounds.com/walking-footsteps-on-metal-surface/)<br />
+Explosion: [http://www.orangefreesounds.com/explosion-sound-effect/](http://www.orangefreesounds.com/explosion-sound-effect/)<br />
+Door Open: [http://www.orangefreesounds.com/metro-door-open-sound/](http://www.orangefreesounds.com/metro-door-open-sound/)<br />
+Robot Hurt 1: [http://soundbible.com/906-Drop-Sword.html](http://soundbible.com/906-Drop-Sword.html)<br />
+Robot Hurt 2: [http://www.orangefreesounds.com/crash-sound-effect/](http://www.orangefreesounds.com/crash-sound-effect/)<br />
+Robot Hurt 3: [http://www.orangefreesounds.com/metal-door-closing-sound-effect/](http://www.orangefreesounds.com/metal-door-closing-sound-effect/)<br />
+Trap Place: [http://www.orangefreesounds.com/footstep-single-ice/](http://www.orangefreesounds.com/footstep-single-ice/)<br />
+Sword Spin: [http://www.orangefreesounds.com/fan-sound-effect/](http://www.orangefreesounds.com/fan-sound-effect/)<br />
 Bullet Deflect: [http://soundbible.com/1464-Western-Ricochet.html](http://soundbible.com/1464-Western-Ricochet.html)<br />
 Target Hit: [http://soundbible.com/1781-Metal-Clang.html](http://soundbible.com/1781-Metal-Clang.html)<br />
 Teleport: [http://soundbible.com/1885-Martian-Death-Ray.html](http://soundbible.com/1885-Martian-Death-Ray.html)<br />
-Trap Closed: [http://soundbible.com/1104-Metal-Clank-Wobble.html](http://soundbible.com/1104-Metal-Clank-Wobble.html)
+Trap Closed: [http://soundbible.com/1104-Metal-Clank-Wobble.html](http://soundbible.com/1104-Metal-Clank-Wobble.html)<br />
 
-Textures:
-
+Textures:<br />
 Metal Floor: [https://www.pinterest.com/pin/123075002294687146/](https://www.pinterest.com/pin/123075002294687146/)
 
