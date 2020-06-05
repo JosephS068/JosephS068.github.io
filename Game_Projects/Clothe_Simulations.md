@@ -134,9 +134,8 @@ Processing
 Minim - for audio playing in processing
 
 ### Other Resources Used:
-General information:
-https://processing.org/reference/
-How to play music:
-https://stackoverflow.com/questions/11822144/processing-how-to-add-background-music 
-How to texture cloth:
-https://www.youtube.com/watch?v=FeXnJSCFj-Q
+General information:[https://processing.org/reference/](https://processing.org/reference/)
+
+How to play music:[https://stackoverflow.com/questions/11822144/processing-how-to-add-background-music ](https://stackoverflow.com/questions/11822144/processing-how-to-add-background-music )
+
+How to texture cloth: [https://www.youtube.com/watch?v=FeXnJSCFj-Q](https://www.youtube.com/watch?v=FeXnJSCFj-Q)
