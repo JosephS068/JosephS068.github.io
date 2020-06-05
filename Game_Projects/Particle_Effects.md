@@ -102,11 +102,11 @@ Copyright free found here: https://www.flickr.com/photos/freefoto/1239764571/in/
 ##### Firework phase 2
 ![Firework phase 2](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-2.png)
 ##### Firework with multiple bullets. Bullet model found here: http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj
-![Firework with multiple bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-Bullets.png)
+![Firework with multiple bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Bullets.png)
 ##### Firework with several explosions
-![Firework with several explosions](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-Several2.png)
+![Firework with several explosions](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several2.png)
 ##### Firework with several explosions with bullets
-![Firework with several explosions with bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Firework-Several.png)
+![Firework with several explosions with bullets](https://JosephS068.github.io/Game_Projects/Particle_Resources/Fireworks_Images/Fireworks-Several.png)
 ### Tools/Libraries Used:
 Processing
 Other Resources Used:
