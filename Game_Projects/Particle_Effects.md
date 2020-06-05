@@ -63,13 +63,13 @@ Features:
 
 [![Firework](http://img.youtube.com/vi/F8jolMr8XjM/0.jpg)](http://www.youtube.com/watch?v=F8jolMr8XjM)
 
-Features:
-0:00 User controlled camera - translations
-0:12 Particle firing from user pressing 'f' key 
-0:12 First stage of firework shown
-0:12 Shows the 3 layers of firework, with delayed final orange explosion
-0:21 Multiple fireworks going off at once
-0:21 Particles fade/change color as time goes on
+* Features:
+    + 0:00 User controlled camera - translations
+    + 0:12 Particle firing from user pressing 'f' key 
+    + 0:12 First stage of firework shown
+    + 0:12 Shows the 3 layers of firework, with delayed final orange explosion
+    + 0:21 Multiple fireworks going off at once
+    + 0:21 Particles fade/change color as time goes on
 
 ### Benchmarks:
 Hardware: Macbook Pro 2017, Intel Iris Plus Graphics (10)
