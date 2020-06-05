@@ -29,11 +29,15 @@ Ball:
 
 ##### Video Two, Phone
 
+[![ball](http://img.youtube.com/vi/mpOh034Lziw/0.jpg)](http://www.youtube.com/watch?v=mpOh034Lziw)
 
 Due to lag from recording on laptop, another video from phone is offered to better capture smoothness.
 
 #### Water:
+
 ##### Video One
+
+[![water](http://img.youtube.com/vi/LDqUk5avYi0/0.jpg)](http://www.youtube.com/watch?v=LDqUk5avYi0)
 
 Features:
 0:00 User controlled camera - translations
@@ -46,6 +50,7 @@ Features:
 
 ##### Second Video, Higher Quality
 
+[![water](http://img.youtube.com/vi/GyfgG9Rh16k/0.jpg)](http://www.youtube.com/watch?v=GyfgG9Rh16k)
 
 Features:
 0:00 User controlled camera - translations
@@ -55,6 +60,8 @@ Features:
 1:10 Water wall interaction
 
 #### Firework:
+
+[![Firework](http://img.youtube.com/vi/F8jolMr8XjM/0.jpg)](http://www.youtube.com/watch?v=F8jolMr8XjM)
 
 Features:
 0:00 User controlled camera - translations
