@@ -109,9 +109,11 @@ Camera controls are shown off. The cloth is cut, but not enough is cut for it to
   <source src="https://JosephS068.github.io/Game_Projects/Cloth_Resources/Videos/Node-Skip.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-Features:
-(0:03) Billowing/blowing effect
-(0:35) skip nodes comparison
+
+ * Features:
+    + (0:03) Billowing/blowing effect
+    + (0:35) skip nodes comparison
+
 The first cloth shown does not have extra springs attached. Wind is added to create a blowing effect. This effect is used to show the difference between a regular cloth and a cloth with additional springs. The video then shows a cloth with additional skip springs and how it is stiffer. 
 
 #### 1D Water
