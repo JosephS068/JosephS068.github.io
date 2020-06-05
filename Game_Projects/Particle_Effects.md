@@ -69,56 +69,47 @@ Fireworks: 6000 particles, 40 FPS
 ### Images:
 #### Ball:
 
-Ball in the air
+##### Ball in the air
 ![Ball in air](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Air.png)
 
-Ball stopped
+##### Ball stopped
 ![Ball stopped](https://JosephS068.github.io/Game_Projects/Particle_Resources/Ball_Images/Ball-Stop.png)
 
 #### Water:
 
-General picture of the particle setting
+##### General picture of the particle setting
 
+##### Close up of the arc from the bottle
 
-Close up of the arc from the bottle
+##### Up close picture of water particle after it has hit the ground
 
+##### The splash of the water
 
-Up close picture of water particle after it has hit the ground
+##### The splash colliding with a wall
 
+##### The splash colliding with a wall, far away
 
-The splash of the water
+##### The water flow colliding with a wall
 
-
-The splash colliding with a wall
-
-
-The splash colliding with a wall, far away
-
-
-The water flow colliding with a wall
-
-
-Texture used for water particles
+##### Texture used for water particles
 Copyright free found here: https://www.flickr.com/photos/freefoto/1239764571/in/photostream/ 
-Fireworks:
 
-Initial state of scene
+#### Fireworks:
 
+##### Initial state of scene
 
-Firework phase 1
+##### Firework phase 1
 
+##### Firework phase 2
 
-Firework phase 2
+##### Firework with multiple bullets. Bullet model found here: http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj
 
-
-Firework with multiple bullets. Bullet model found here: http://www.aigei.com/s?q=%E5%AD%90%E5%BC%B9&type=3d&term=obj
-
-
-Firework with several explosions
+##### Firework with several explosions
 
 
-Firework with several explosions with bullets
-Tools/Libraries Used:
+##### Firework with several explosions with bullets
+
+### Tools/Libraries Used:
 Processing
 Other Resources Used:
 Used processing's intro tutorials. https://processing.org/tutorials/p3d/
