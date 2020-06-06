@@ -4,8 +4,16 @@ A simple first person shooter made in processing.
 # Final Report PUT IT HERE
 
 # Project Presentation:
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/Game-Presentation-SHORT-VERSION.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 # Longer Presentation:
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/Game-Presentation.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Originally, I thought the presentation had to be 3 minutes. Here is the longer version, it had additional slides and talks briefly about the particle effects.
 
@@ -27,142 +35,103 @@ There are two minor problems with the game's presentation, firstly, the audio ca
 
 Secondly on the win/death screen the text can become cut off, cause unknown, likely clipping into obstacles. 
 
-#Videos:
-Play Through
+# Videos:
+### Play Through
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/Play-Through.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-Video shows:
-    Entire play through of level
-    Obstacle collisions
-    epsilon A* boss fight
-    Collision with box obstacles
-    Boid enemy
-    Bullet detection by entities
-    Player interaction with Doors
-Target Collision Problems
+* Video shows:
+    + Entire play through of level
+    + Obstacle collisions
+    + epsilon A* boss fight
+    + Collision with box obstacles
+    + Boid enemy
+    + Bullet detection by entities
+    + Player interaction with Doors
 
-Video shows:
-    The hit boxes in this game are all spheres, so you can shoot in front of targets and still hit them. 
-    Bullets move through obstacles/other entities, multiple targets can be hit with one bullet.
-Collisions
-
-Video shows:
-    Player interacting with pipe collision(Cylinder Obstacle).
-    Wall collision(Quad Obstacle).
-    Box Collision(Rectangle Obstacle)
-    Player escaping the map, as geometry allows it. 
-
-Boss Mapping Displayed
-
-Video shows:
-    The random points the boss can move to and how the goal(player position), is changed when the boss creates a new plan. 
-
-Play Through With Audio (Phone Camera)
+### Target Collision Problems
 
 
+ * Video shows:
+    + The hit boxes in this game are all spheres, so you can shoot in front of targets and still hit them. 
+    + Bullets move through obstacles/other entities, multiple targets can be hit with one bullet.
 
-Video shows:
-    I was unable to record audio with my software on my laptop. A phone video is taken to provide a general overview of the audio present in game. 
+### Collisions
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/Collision-Showcase.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+* Video shows:
+    + Player interacting with pipe collision(Cylinder Obstacle).
+    + Wall collision(Quad Obstacle).
+    + Box Collision(Rectangle Obstacle)
+    + Player escaping the map, as geometry allows it. 
+
+### Boss Mapping Displayed
+
+* Video shows:
+    + The random points the boss can move to and how the goal(player position), is changed when the boss creates a new plan. 
+
+### Play Through With Audio (Phone Camera)
+
+
+
+* Video shows:
+    + I was unable to record audio with my software on my laptop. A phone video is taken to provide a general overview of the audio present in game. 
 
 # Images
 ## Target Area
 ### Pipe With Collision
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/pip.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Pipe With Collision](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/pip.png)
 
 ### Player Firing, Hitting Target
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/target-shot.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Player Firing, Hitting Target](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/target-shot.png)
 
 ### All Targets Cleared
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/target-reload.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![All Targets Cleared](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/target-reload.png)
 
 ### No Targets Hit
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/Target.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![No Targets Hit](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/Target.png)
 
 ## Boss Fight
 ### Boss' Traps
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-traps.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Boss' Traps](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-traps.png)
 
 ### Boss' Shield Up
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-shield.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-shield.png)
 
 ### Boss Dead
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-dead.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Boss Dead](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss-dead.png)
 
 ### Boss Following Player
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Boss Following Player](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/boss.png)
 
 ### Death Screen
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/Death.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Death Screen](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/Death.png)
 
 ### Obstacle Course
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-1.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Obstacle Course](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-1.png)
 
 ### Final Corridor
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-2.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Final Corridor](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-2.png)
 
 ### Player Shooting Enemy, In Final Elevator
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-3.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Player Shooting Enemy, In Final Elevator](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/obstacle-3.png)
 
 ### Corridor Empty
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/parasite-hallway.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Corridor Empty](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/parasite-hallway.png)
 
 ### Win Screen Glitch
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/win.png" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Win Screen Glitch](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/win.png)
 
 # Maps For Level Creation
 Below are the maps I used while programming the level, it was used to help figure out each obstacle's coordinates, as well as provide the ground work of the level's layout. It's primary use was keeping track of how Z axis and X axis were positioned. I gave every wall an id, which allowed for quick map creation. Finally when coloring floors/ceilings the below maps are used
 
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/map.jpg" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/map-3.jpg" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
+![Maps For Level Creation](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/map.jpg)
+![Maps For Level Creation 2](https://JosephS068.github.io/Game_Projects/FPS_Resources/Images/map-3.jpg)
 # Benchmarks:
 Though FPS bench marks were not taken, an exported version of this game was played on a Mac Book running windows. Which was found to have a large decrease in performance compared to my Acer laptop. I made this note, because the Acer laptop used to develop this game was weaker than the Mac Book. To improve performance on all machines, parts of the level is removed from collision check after passing a certain section. Additionally, short audio clips are loaded in memory at the start up.
 
