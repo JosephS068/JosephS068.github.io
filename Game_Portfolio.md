@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
 # Game Portfolio
 ## Unreal (C++)
 will be ready in the future :)
@@ -8,6 +10,8 @@ will be ready in the future :)
 <img src="Portfolio_Resources/Games_Portfolio/First-Person-Shooter.png">
 </a>
 
-<img src="Portfolio_Resources/Games_Portfolio/Particles.png">
-<img src="Portfolio_Resources/Games_Portfolio/Physics.png">
-<img src="Portfolio_Resources/Games_Portfolio/Planning.png">
+<div class="processing-sub">
+    <img src="Portfolio_Resources/Games_Portfolio/Particles.png">
+    <img src="Portfolio_Resources/Games_Portfolio/Physics.png">
+    <img src="Portfolio_Resources/Games_Portfolio/Planning.png">
+</div>
