@@ -1,7 +1,8 @@
 # Description:
 A simple first person shooter made in processing. 
 
-# Final Report PUT IT HERE
+# Final Report 
+![Report Here](https://JosephS068.github.io/Game_Projects/FPS_Resources/FPS-Report.pdf)
 
 # Project Presentation:
 <video width="480" height="360" controls>
