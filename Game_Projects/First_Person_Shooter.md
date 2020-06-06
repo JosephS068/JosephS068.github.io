@@ -52,7 +52,10 @@ Your browser does not support the video tag.
     + Player interaction with Doors
 
 ### Target Collision Problems
-
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/Target-Poor-Collision.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
  * Video shows:
     + The hit boxes in this game are all spheres, so you can shoot in front of targets and still hit them. 
