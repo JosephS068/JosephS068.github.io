@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 
 # Game Portfolio
 ## Unreal (C++)
@@ -11,7 +11,7 @@ will be ready in the future :)
 </a>
 
 <div class="processing-sub">
-    <img src="Portfolio_Resources/Games_Portfolio/Particles.png">
+    <img class="" src="Portfolio_Resources/Games_Portfolio/Planning.png">
     <img src="Portfolio_Resources/Games_Portfolio/Physics.png">
-    <img src="Portfolio_Resources/Games_Portfolio/Planning.png">
+    <img src="Portfolio_Resources/Games_Portfolio/Particles.png">
 </div>
