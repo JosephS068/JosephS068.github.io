@@ -75,12 +75,25 @@ Your browser does not support the video tag.
 
 ### Boss Mapping Displayed
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/Boss-Path.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 * Video shows:
     + The random points the boss can move to and how the goal(player position), is changed when the boss creates a new plan. 
 
 ### Play Through With Audio (Phone Camera)
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/FPS-Audio-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
+<video width="480" height="360" controls>
+  <source src="https://JosephS068.github.io/Game_Projects/FPS_Resources/Videos/FPS-Audio-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 * Video shows:
     + I was unable to record audio with my software on my laptop. A phone video is taken to provide a general overview of the audio present in game. 
