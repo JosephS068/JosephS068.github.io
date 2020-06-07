@@ -9,7 +9,7 @@ will be ready in the future :)
 <a  href="https://josephs068.github.io/Game_Projects/First_Person_Shooter">
     <img class="processing-main-image" src="Portfolio_Resources/Games_Portfolio/First-Person-Shooter.png">
 </a>
-<p>First Person Shooter</p>
+<p class="processing-main-text">First Person Shooter</p>
 
 <div class="processing-sub">
     <div>
