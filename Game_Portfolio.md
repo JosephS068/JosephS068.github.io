@@ -18,16 +18,16 @@ will be ready in the future :)
         </a>
     </div>
     <div>
-        <p>Path Planning</p>
+        <p class="processing-sub-text">Path Planning</p>
         <a href="https://josephs068.github.io/Game_Projects/Clothe_Simulations">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Physics.png">  
         </a>
-        <p>Physics Simulation</p>
+        <p class="processing-sub-text">Physics Simulation</p>
     </div>
     <div>
         <a href="https://josephs068.github.io/Game_Projects/Particle_Effects">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Particles.png">
         </a>
-        <p>Particle Systems</p>
+        <p class="processing-sub-text">Particle Systems</p>
     </div>
 </div>
