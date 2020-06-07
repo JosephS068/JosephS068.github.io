@@ -8,20 +8,26 @@ will be ready in the future :)
 
 <a  href="https://josephs068.github.io/Game_Projects/First_Person_Shooter">
     <img class="processing-main-image" src="Portfolio_Resources/Games_Portfolio/First-Person-Shooter.png">
-    <p>First Person Shooter</p>
 </a>
+<p>First Person Shooter</p>
 
 <div class="processing-sub">
-    <a href="https://josephs068.github.io/Game_Projects/Path_Planning">
-        <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Planning.png">
+    <div>
+        <a href="https://josephs068.github.io/Game_Projects/Path_Planning">
+            <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Planning.png">
+        </a>
+    </div>
+    <div>
         <p>Path Planning</p>
-    </a>
-    <a href="https://josephs068.github.io/Game_Projects/Clothe_Simulations">
-        <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Physics.png">
+        <a href="https://josephs068.github.io/Game_Projects/Clothe_Simulations">
+            <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Physics.png">  
+        </a>
         <p>Physics Simulation</p>
-    </a>
-    <a href="https://josephs068.github.io/Game_Projects/Particle_Effects">
-        <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Particles.png">
+    </div>
+    <div>
+        <a href="https://josephs068.github.io/Game_Projects/Particle_Effects">
+            <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Particles.png">
+        </a>
         <p>Particle Systems</p>
-    </a>
+    </div>
 </div>
