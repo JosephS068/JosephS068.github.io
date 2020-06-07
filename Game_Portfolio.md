@@ -12,19 +12,19 @@ will be ready in the future :)
 <p class="processing-main-text">First Person Shooter</p>
 
 <div class="processing-sub">
-    <div>
+    <div class="processing-sub-container">
         <a href="https://josephs068.github.io/Game_Projects/Path_Planning">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Planning.png">
         </a>
         <p class="processing-sub-text">Path Planning</p>
     </div>
-    <div>
+    <div class="processing-sub-container">
         <a href="https://josephs068.github.io/Game_Projects/Clothe_Simulations">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Physics.png">  
         </a>
         <p class="processing-sub-text">Physics Simulation</p>
     </div>
-    <div>
+    <div class="processing-sub-container">
         <a href="https://josephs068.github.io/Game_Projects/Particle_Effects">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Particles.png">
         </a>
