@@ -5,7 +5,7 @@
 will be ready in the future :)
 
 ## Processing (Java)
-<div class="container">
+<div class="image-container">
     <a  href="https://josephs068.github.io/Game_Projects/First_Person_Shooter">
         <img class="processing-main-image" src="Portfolio_Resources/Games_Portfolio/First-Person-Shooter.png">
     </a>
@@ -13,19 +13,19 @@ will be ready in the future :)
 </div>
 
 <div class="processing-sub">
-    <div class="container">
+    <div class="image-container">
         <a href="https://josephs068.github.io/Game_Projects/Path_Planning">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Planning.png">
         </a>
         <p class="processing-sub-text">Path Planning</p>
     </div>
-    <div class="container">
+    <div class="image-container">
         <a href="https://josephs068.github.io/Game_Projects/Clothe_Simulations">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Physics.png">  
         </a>
         <p class="processing-sub-text">Physics Simulation</p>
     </div>
-    <div class="container">
+    <div class="image-container">
         <a href="https://josephs068.github.io/Game_Projects/Particle_Effects">
             <img class="processing-sub-image" src="Portfolio_Resources/Games_Portfolio/Particles.png">
         </a>
