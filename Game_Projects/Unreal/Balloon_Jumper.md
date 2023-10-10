@@ -8,11 +8,7 @@ All of the code can be found here: [https://github.com/JosephS068/BalloonJumperU
 
 ### Show Case:
 
-Video:
-<video width="480" height="360" controls>
-  <source src="https://JosephS068.github.io/Game_Projects/Unreal/Balloon_Resources/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+Video: [https://drive.google.com/file/d/14ov60JhH959HGXOwDkS-cx-H2jbyllEP/view?usp=drive_link](https://drive.google.com/file/d/14ov60JhH959HGXOwDkS-cx-H2jbyllEP/view?usp=drive_link)
 
 Main Menu:
 ![Main Menu](https://JosephS068.github.io/Game_Projects/Unreal/Balloon_Resources/Main_Menu.png)
